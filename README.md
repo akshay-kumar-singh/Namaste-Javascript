@@ -1,14 +1,11 @@
 # Welcome to Namaste Javascript Notes 🚀
 
-![Namaste-JavaScript-Banner](https://socialify.git.ci/alok722/namaste-javascript-notes/image?description=1&font=Raleway&forks=1&logo=https://www.tutorialrepublic.com/lib/images/javascript-illustration.png&owner=1&stargazers=1&theme=Dark)
-
 ## ❓ what it is
 
 > This repo maintains my version of javascript notes which I learned from the famous [Namaste Javascript Youtube Series](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1&ab_channel=AkshaySaini) by Akshay Saini.
 
 <br>
 
-## 🏠 [Namaste Javascript Notes Website](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
 
 ## 🚀 [PDF Version of Complete Notes](./dist/namaste-javascript-notes.pdf)
 
@@ -72,17 +69,14 @@
 
 <br>
 
-## ✨ Testimonial
 
-From the creator of Namaste Javascript himself, 🙌
-![Testimonial](./assets/testimonial.png)
 
 ## 👤 Author
 
-**alok raj (alokr417@gmail.com)**
+**Akshay Kumar Singh (akshaysing975@gmail.com)**
 
-- website: https://alok722.github.io/
-- linkedin: [@alok722](https://linkedin.com/in/alok722)
+- website: https://portfolio-next-js-blond.vercel.app
+- linkedin: [@Akshay](https://www.linkedin.com/in/akshay-singh-39531324b/)
 
 <br>
 
@@ -94,5 +88,3 @@ From the creator of Namaste Javascript himself, 🙌
 ## ✨ Show your support
 
 Give a ⭐️ if this project helped you!
-
-![image info](https://api.star-history.com/svg?repos=alok722/namaste-javascript-notes&type=Timeline)
